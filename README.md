@@ -1,2 +1,2 @@
 # 대구시 교통사고 피해 분석 및 예측 프로젝트
-[프로젝트 바로가기](대구시_교통사고_데이터_활용_사고위험도분석_예측모델개발.pdf)
+[프로젝트 바로가기](traffic_accident_risk_factor_analysis_predictive_model_development.pdf)
